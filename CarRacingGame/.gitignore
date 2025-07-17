@@ -1,0 +1,10 @@
+# Build and Python files
+Build/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.DS_Store
+.vscode/
+.idea/

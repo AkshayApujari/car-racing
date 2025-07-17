@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "Run Car Racing Game",
+			"command": "python",
+			"args": [
+				"Source/Core/main.py"
+			],
+			"group": "build",
+			"problemMatcher": []
+		}
+	]
+}
